@@ -1,0 +1,10 @@
+Instructions :
+
+To log on to this Online Hostel Booking System
+NBKRIST students can login with StudentID credentials.
+
+Note:
+1. The portal will open as per schedule notified.
+2.To get Loginin credentials you need to complete the registration process
+3. By logging on and booking accommodation in Hostel, Students agree to abide by the Rules & Regulations of the NBKRIST.
+4.If the payment transaction is fails,please try with different card/Bank.
